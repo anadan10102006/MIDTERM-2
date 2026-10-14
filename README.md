@@ -2,9 +2,7 @@
 
 Programación Paralela · Pontificia Universidad Javeriana Cali
 
-Este paquete tiene **todo lo necesario** para repetir el experimento del taller en tu computador: el código de las cuatro variantes, el programa que hace las mediciones, los scripts que instalan y corren todo, el script de las gráficas y los resultados que obtuvo Juliana para que puedas comparar.
-
-Si nunca has usado Linux, no pasa nada. Sigue la guía en orden y copia los comandos tal cual.
+Integrantes: Maria Lucía Castillo García, Juliana González Sánchez, Ana Daniela Paredes Tovar
 
 ---
 
