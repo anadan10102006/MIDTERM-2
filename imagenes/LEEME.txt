@@ -1,0 +1,6 @@
+Pon aqui las 4 imagenes de entrada. El nombre de cada una debe contener su tamano:
+  kitkat512.jpg
+  meow1024.jpg
+  onedirection2048.jpg
+  4096.jpg
+(Pueden llamarse distinto, siempre que el nombre incluya 512, 1024, 2048 o 4096.)
